@@ -19,11 +19,11 @@ The description of the workspace's structure goes here.
            [2](http://wiki.ros.org/Installation/Source),
            [3](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment))
   - [ ] 02. Introduction to catkin
-    (refs: [1](http://wiki.ros.org/ROS/Tutorials/CreatingPackage))
+    (refs: [1](http://wiki.ros.org/ROS/Tutorials/CreatingPackage),
+           [2](http://wiki.ros.org/ROS/Tutorials/BuildingPackages))
    - concept of package and workspace
    - package/workspace management
    - package dependencies, `rosdep`
   - [ ] 03. ROS Filesystem
-        (refs: [1](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem)
-               [2](http://wiki.ros.org/ROS/Tutorials/BuildingPackages))
+        (refs: [1](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem))
         
