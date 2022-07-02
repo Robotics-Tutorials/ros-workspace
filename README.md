@@ -13,17 +13,32 @@ The description of the workspace's structure goes here.
   - [ ] basic concepts
   - [ ] high-level design
   - [ ] *extra/misc
-- **B. Tutorials**
+- **B. Topics**
   - [ ] 01. ROS Installation and Setup 
-    (refs: [1](http://wiki.ros.org/Installation/Ubuntu),
-           [2](http://wiki.ros.org/Installation/Source),
-           [3](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment))
-  - [ ] 02. Introduction to catkin
-    (refs: [1](http://wiki.ros.org/ROS/Tutorials/CreatingPackage),
-           [2](http://wiki.ros.org/ROS/Tutorials/BuildingPackages))
-   - concept of package and workspace
-   - package/workspace management
-   - package dependencies, `rosdep`
+  - [ ] 02. Catkin tools
   - [ ] 03. ROS Filesystem
-        (refs: [1](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem))
-        
+  - [ ] 04. ROS Nodes
+  - [ ] 05. ROS Topics
+  - [ ] 06. ROS Services
+  - [ ] 07. ROS Parameters
+  - [ ] 08. ROS launch
+  - [ ] 09. ROS RQT
+  - [ ] 10. ROS Messages
+  - [ ] 11. ROS Actions (actionlib)
+  - [ ] 12. ROS Bag
+  - [ ] 13. ROS Nodelets (pluginlib)
+  - [ ] 14. ROS TF
+  - [ ] 15. ROS Stage (controllers)
+  - [ ] 16. PCL
+  - [ ] 17. OpenCV
+  - [ ] 18. Eigen3
+  - [ ] 19. ROS Navigation
+  - [ ] 20. ROS Localization
+  - [ ] 21. ROS Visualization
+  - [ ] 22. Gazebo, SDF
+  - [ ] 23. Rviz, plugins
+  - [ ] 24. URDF/XACRO, robot description
+  - [ ] 25. ROS Dynamic Reconfigure
+  - [ ] 26. ROS camera calibration
+  - [ ] 27. ROS fiducial markers
+  
